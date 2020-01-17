@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/IPModifier"/>
+    <qresource prefix="/Image">
+        <file alias="IP.png">Resources/Images/IP.png</file>
+    </qresource>
+</RCC>
